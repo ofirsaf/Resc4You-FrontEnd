@@ -5,6 +5,7 @@ The project has 3 users: citizens, volunteers, and administrators.
  A challenging project with the use of many technologies and libraries
 
 The env file should look like that:
+
 MAPS_API_KEY=""
 
 FIREBASE_API_KEY= ""
