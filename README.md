@@ -6,17 +6,29 @@ The project has 3 users: citizens, volunteers, and administrators.
 
 The env file should look like that:
 MAPS_API_KEY=""
+
 FIREBASE_API_KEY= ""
+
 AUTH_DOMAIN= ""
+
 DATABASE_URL= ""
+
 PROJECT_ID= ""
+
 STORAGE_BUCKET= ""
+
 MESSAGING_SENDER_ID= ""
+
 APP_ID= ""
+
 MEASUREMENT_ID= ""
+
 SERVICE_ID=""
+
 TEMPLATE_ID_VOLUNTEER=""
+
 TEMPLATE_ID_CITIZEN=""
+
 USER_ID=""
 
 
